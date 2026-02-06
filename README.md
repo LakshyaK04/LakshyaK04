@@ -1,9 +1,92 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Lakshya%20Kapoor&fontAlign=50&fontAlignY=35&color=0:0f2027,100:203a43&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20AI/ML%20Engineer&descAlign=50&descAlignY=55&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi, I'm Lakshya 👋</h1>
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Building+scalable+web+systems.;Exploring+AI+and+Machine+Learning.;Turning+ideas+into+products." />
+</p>
+
+---
+
+## 👋 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+I’m a **Computer Science (AI/ML) undergraduate at Manipal University Jaipur (Class of 2028)**.  
+I enjoy working where **backend engineering meets intelligent systems**, focusing on clarity, scale, and real-world impact.
+
+- 🔭 Building **full-stack platforms** & ML-powered features  
+- 🧠 Interested in **AI agents, NLP, system design**
+- ⚡ Hackathon-driven, product-first mindset
+- ✨ Clean UI, strong backend logic
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LakshyaK04&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql&theme=dark" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
+</p>
+
+### ⚙ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+### 🚀 Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏥 **Schedulr**
+*A role-based healthcare appointment platform*
+
+- 🔐 JWT authentication + bcrypt
+- 👥 Patient / Doctor / Admin dashboards
+- 💳 Razorpay integration (online + offline)
+- ⚙️ 20+ REST APIs
+- 🌍 Vercel (frontend) + Render (backend)
+
+---
+
+## 🏆 Highlights
+
+- 🥉 **2nd Runner-Up — Hackerzstreet 3.0 Hackathon** (500+ teams)
+- 🎓 **Dean’s List** — Highest GPA (MUJ)
+- ⚡ Built production-ready systems under time pressure
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaK04&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/kapoorlakshya42">
@@ -17,80 +100,6 @@
   </a>
 </p>
 
----
-
-## 🌙 About Me
-
-I’m a **Computer Science (AI/ML) undergraduate at Manipal University Jaipur (Class of 2028)**.  
-My interests lie at the intersection of **scalable web systems** and **intelligent models**, where I enjoy turning complex logic into clean, usable products.
-
-- 🔭 Currently building **full-stack platforms** and exploring **machine learning & NLP**
-- 🧠 Interested in **AI agents, system design, and backend architecture**
-- 🚀 Hackathon-driven, project-first learner
-- ✨ Strong focus on **clean UI + robust backend logic**
-
----
-
-## 🛠 Skill Tree
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### ⚙ Backend & Databases
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
-
-### 🚀 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
-
----
-
-## 📌 Featured Project
-
-### 🏥 **Schedulr**
-**Role-based healthcare appointment platform**
-
-- 🔐 Secure authentication using **JWT + bcrypt**
-- 👥 Patient / Doctor / Admin workflows
-- 💳 Online & offline payments (Razorpay integration)
-- ⚙️ 20+ REST APIs (appointments, dashboards, profiles)
-- 🌍 Deployed with **Vercel (frontend)** & **Render (backend)**
-
-🔗 *Live demo & source code available on my GitHub*
-
----
-
-## 🏆 Achievements
-
-- 🥉 **2nd Runner-Up — Hackerzstreet 3.0 Hackathon** (500+ teams)
-- 🎓 **Dean’s List** – Highest GPA across first two semesters (MUJ)
-- 💡 Built full-stack + AI solutions under tight deadlines
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaK04&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaK04&theme=tokyonight" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>“Build systems. Break assumptions. Learn fast.”</i>
+  <i>“Design systems that scale. Build things that matter.”</i>
 </p>
