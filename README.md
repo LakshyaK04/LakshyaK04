@@ -24,16 +24,16 @@ I enjoy building **full-stack web applications** with a strong focus on **backen
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,js,python,sql&theme=dark)
+![Skills](https://skillicons.dev/icons?i=cpp,js,python,sql&theme=dark)
 
 ### 🌐 Frontend
-![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)
+![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)
 
 ### ⚙ Backend & Databases
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
 
 ### 🚀 Tools & Deployment
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark)
 
 ---
 
@@ -42,23 +42,11 @@ I enjoy building **full-stack web applications** with a strong focus on **backen
 ### 🏥 **Schedulr**
 *A role-based healthcare appointment platform*
 
-- 🔐 Secure authentication using JWT & bcrypt  
+- 🔐 JWT authentication + bcrypt  
 - 👥 Patient / Doctor / Admin dashboards  
-- 💳 Razorpay integration for payments  
+- 💳 Razorpay payment integration  
 - ⚙️ 20+ REST APIs  
-- 🌍 Deployed using Vercel & Render  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaK04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaK04&theme=tokyonight&hide_border=true" />
-</p>
+- 🌍 Deployed on Vercel & Render  
 
 ---
 
