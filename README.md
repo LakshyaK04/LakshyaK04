@@ -41,13 +41,13 @@ I enjoy building **full-stack web applications** with an emphasis on **backend e
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Skills](https://skillicons.dev/icons?i=cpp,js,python,sql&theme=dark)
+![Skills](https://skillicons.dev/icons?i=c,cpp,js,python,sql&theme=dark)
 
 ### 🌐 Frontend
 ![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)
 
 ### ⚙ Backend & Databases
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb&theme=dark)
 
 ### 🚀 Tools & Deployment
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark)
