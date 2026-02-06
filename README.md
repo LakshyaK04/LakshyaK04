@@ -1,9 +1,6 @@
 <!-- Animated Visual Header -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=6,12,20&animation=fadeIn"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/LakshyaK04/LakshyaK04/main/assets/banner.png" width="100%" />
 </p>
 
 <p align="center">
