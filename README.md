@@ -1,11 +1,12 @@
 <!-- Animated Visual Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LakshyaK04/LakshyaK04/main/assets/banner.png" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/LakshyaK04/LakshyaK04/main/assets/banner.gif"
+    width="100%"
+    alt="header gif"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+web+applications.;Focused+on+backend+logic+and+system+design.;Learning+by+building+real+projects." />
-</p>
 
 ---
 
